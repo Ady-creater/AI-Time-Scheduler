@@ -1,0 +1,11 @@
+pandas
+pydantic
+asyncio
+google-api-python-client
+python-dotenv
+google-genai
+ipython
+langchain
+langchain-google-genai
+langgraph
+google-adk
